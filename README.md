@@ -6,4 +6,4 @@ The input files are very large and in the .arff format for WEKA, so they were ex
 
 The first project involved classification of intrusive traffic with a random forest.
 The second project involved classification of intrusive traffic with a multilayer perceptron.
-The third project was somply a presentation to compare the results of the previous 2 projects.
+The third project was simply a presentation to compare the results of the previous 2 projects.
